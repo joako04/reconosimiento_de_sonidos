@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../c-106"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c-106 proyect"
+	}
+}

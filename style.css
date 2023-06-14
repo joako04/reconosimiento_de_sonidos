@@ -1,0 +1,25 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+#di2
+{
+    background-color: rgb(109, 146, 146);
+    height: 70%;
+}
+#buton
+{
+    border-color: blue;
+    border-radius: 10%;
+    border-style: double;
+}
+body
+{
+    background-color: dodgerblue;
+}
+.tit
+{
+    background-color: rgb(212, 29, 44);
+    color: antiquewhite;
+
+}
